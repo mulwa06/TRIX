@@ -20,7 +20,7 @@ To download and use the application;
 - click on the Release for this repository
 - download the "Source Code.zip file"
 - extract the zip file
-- click on the "trix.exe" to launch the app
+- click on the "Trix Installer.exe" to launch the app
 
 ## Screenshots 
 
