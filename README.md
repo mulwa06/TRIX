@@ -9,7 +9,7 @@ This was a personal project and it helped me learn how to build desktop applicat
 ## Features
 
 This project included the following features:
-- .NET 6.0 Framework
+- .NET 8.0 Framework
 - C#
 - WebView2
 - Windows Presentation Forms
